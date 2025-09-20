@@ -1,7 +1,7 @@
 # Git Final Exam
-Họ tên: Nguyễn Văn A
-MSSV: 123456
-Ngày làm bài: 19/09/2025
+Họ tên: Vo Van Khanh
+MSSV: 223364
+Ngày làm bài: 20/09/2025
 
 ## Mục tiêu
 - Hiểu và sử dụng thành thạo các lệnh cơ bản của Git.
