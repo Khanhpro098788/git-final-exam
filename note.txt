@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn dễ dàng hơn
 - Dễ dàng theo dõi lịch sử thay đổi
 - Hỗ trợ làm việc nhóm hiệu quả
+- Có thể tạo nhiều branch để phát triển song song
+- Học Git giúp nâng cao kỹ năng lập trình
