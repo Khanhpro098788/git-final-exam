@@ -1,12 +1,1 @@
-Giới thiệu cá nhân:
-Tôi là Vo Van Khanh, sinh viên năm 4 ngành CNTT.
-Hiện tại tôi quan tâm đến lĩnh vực lập trình web .
-Tôi thích tìm hiểu công nghệ mới và ứng dụng vào thực tế.
-Sở thích:
-1. Đọc sách công nghệ
-2. Chơi thể thao
-3. game
-Kỹ năng:
-1. Lập trình Python, c#
-2. Git & GitHub
-3. Thiết kế web cơ bản
+Xin chào, tôi là Võ Văn Khanh
