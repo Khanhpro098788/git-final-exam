@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý sản phẩm
+1. Thêm sản phẩm vào hệ thống
+2. Sửa thông tin sản phẩm
+3. Xóa sản phẩm không còn bán
+4. Tìm kiếm sản phẩm theo danh mục
+5. Hiển thị sản phẩm trên trang chủ
